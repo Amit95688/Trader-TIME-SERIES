@@ -45,15 +45,15 @@ Jupyter Notebook
 🚀 Installation
 
 Clone the repository:
-
+```
 git clone https://github.com/Amit95688/Trader-TIME-SERIES.git
 cd Trader-TIME-SERIES
-
+```
 Install required libraries:
-
+```
 pip install pandas numpy matplotlib seaborn jupyter
 
-
+```
 ---
 
 ▶️ How to Run
