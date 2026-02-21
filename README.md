@@ -25,7 +25,7 @@ Trader-TIME-SERIES/
 
 
 ---
-
+```
 🛠 Technologies Used
 
 Python 🐍
